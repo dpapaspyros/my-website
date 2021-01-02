@@ -7,5 +7,6 @@ psycopg2-binary==2.8
 # deployment & monitoring
 dj-database-url==0.3.0
 gunicorn==19.4.5
+newrelic==5.2.1.129
 whitenoise==5.0.1
 python-dotenv==0.13.0
