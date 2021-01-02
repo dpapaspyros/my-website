@@ -12,7 +12,6 @@ ALLOWED_HOSTS = ['*']
 
 # Whitenoise
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
-WHITENOISE_MANIFEST_STRICT = False
 
 # SSl settings
 # Honor the 'X-Forwarded-Proto' header for request.is_secure()

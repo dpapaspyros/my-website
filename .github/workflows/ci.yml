@@ -1,4 +1,4 @@
-name: Earnings Backend CI/CD
+name: papaspyros.me CI/CD
 
 on:
   push:
