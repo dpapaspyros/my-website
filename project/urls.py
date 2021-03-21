@@ -24,4 +24,7 @@ urlpatterns = [
 
     # home
     path('', views.home, name='home'),
+
+    # stavel
+    path('stavel', views.stavel, name='stavel')
 ]
