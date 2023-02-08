@@ -26,5 +26,8 @@ urlpatterns = [
     path('', views.home, name='home'),
 
     # stavel
-    path('stavel', views.stavel, name='stavel')
+    path('stavel', views.stavel, name='stavel'),
+
+    # company info
+    path('info', views.info, name='info'),
 ]

@@ -7,3 +7,7 @@ def home(request):
 
 def stavel(request):
     return render(request, 'stavel.html')
+
+
+def info(request):
+    return render(request, 'info.html')
